@@ -1,10 +1,8 @@
 import Utilidades.Utilidades;
 import factory.DriverFactory;
 import factory.pages.PageCalculadora;
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
-import org.junit.Before;
-import org.junit.Test;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
 import org.opentest4j.AssertionFailedError;
@@ -14,12 +12,12 @@ public class TestCalculadora {
     WebDriver driver;
     PageCalculadora pageCalculadora;
     Utilidades utilidad;
-    Logger log;
+    private static final Logger log = LogManager.getLogger(TestCalculadora.class.getName());
 
 
     @BeforeEach
     public void setup() {
-        log = Logger.getLogger(TestCalculadora.class);
+//        log = Logger.getLogger(TestCalculadora.class);
         log.info("Inicia la prueba");
 
         driver = DriverFactory.getDriver("chrome", false, false, false, true);
@@ -30,7 +28,7 @@ public class TestCalculadora {
     }
 
     @RepeatedTest(20)
-    public void testSumaConCalculadoraGoogle() {
+    public void testOperaciones() {
         double numeroUno, numeroDos, resultado;
         String operacion;
 

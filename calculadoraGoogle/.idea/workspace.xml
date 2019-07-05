@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d92fa6e1-70b0-483d-9618-4dd73f831244" name="Default Changelist" comment="" />
+    <list default="true" id="d92fa6e1-70b0-483d-9618-4dd73f831244" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilidades/Espera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ayudas/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/factory/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/factory/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/TestCalculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/TestCalculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/testCalculadora.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testCalculadora.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCalculadora.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -78,11 +100,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/factory/DriverFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+            <state relative-caret-position="308">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -90,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="23" column="95" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="95" />
+            <state relative-caret-position="353">
+              <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -99,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculadora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="806">
+              <caret line="42" column="141" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="141" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,29 +139,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/testCalculadora.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider">
-            <state relative-caret-position="1416">
-              <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Utilidades/Espera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/factory/pages/PageCalculadora.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="382">
-              <caret line="111" column="41" lean-forward="true" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+              <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#numeroEnWebElement#0;class#PageCalculadora#0" />
@@ -152,6 +179,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -160,6 +196,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -170,9 +209,12 @@
         <option value="$PROJECT_DIR$/src/test/java/Utilidades/Utilidades.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/pages/PageCalculadora.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCalculadora.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/factory/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/logs/logsTestCalculadora.log" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCalculadora.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j2.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/Utilidades/Espera.java" />
       </list>
     </option>
   </component>
@@ -181,6 +223,7 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -212,7 +255,43 @@
               <item name="calculadoraGoogle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculadoraGoogle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculadoraGoogle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculadoraGoogle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculadoraGoogle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculadoraGoogle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculadoraGoogle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculadoraGoogle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculadoraGoogle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculadoraGoogle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculadoraGoogle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilidades" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,6 +304,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tareas/Java/Ejercicios" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -240,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestCalculadora.testSumaConCalculadoraGoogle">
+  <component name="RunManager" selected="JUnit.TestCalculadora">
     <configuration name="TestCalculadora" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -321,9 +401,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestCalculadora.testSumaConCalculadoraGoogle" />
-        <item itemvalue="Gradle.calculadoraGoogle [dependencies]" />
         <item itemvalue="JUnit.TestCalculadora" />
+        <item itemvalue="Gradle.calculadoraGoogle [dependencies]" />
+        <item itemvalue="JUnit.TestCalculadora.testSumaConCalculadoraGoogle" />
         <item itemvalue="Gradle.TestCalculadora" />
         <item itemvalue="Gradle.TestCalculadora.testSumaConCalculadoraGoogle" />
       </list>
@@ -343,42 +423,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 09h 27m 23s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 52m 06s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 09h 31m 54s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 52m 29s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 09h 50m 01s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 53m 19s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 09h 50m 38s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 53m 39s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 09h 53m 11s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 53m 49s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 10h 01m 58s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 54m 07s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 10h 14m 58s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 55m 22s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 11h 25m 14s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 56m 48s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 11h 27m 27s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 57m 47s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCalculadora_testSumaConCalculadoraGoogle - 2019.07.04 at 11h 30m 34s.xml">
-      <configuration name="TestCalculadora.testSumaConCalculadoraGoogle" configurationId="JUnit" />
+    <history-entry file="TestCalculadora - 2019.07.05 at 13h 58m 27s.xml">
+      <configuration name="TestCalculadora" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23676248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -387,14 +467,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.72649574" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30769232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.32478634" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991454" />
       <window_info anchor="bottom" id="Build" order="10" sideWeight="0.49924356" weight="0.32478634" />
       <window_info anchor="bottom" id="Log4jMonitor" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -442,6 +522,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/pages/PageCalculadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#numeroEnWebElement#0;class#PageCalculadora#0" />
+            <element signature="e#4818#4819#0" expanded="true" />
+            <element signature="e#4855#4856#0" expanded="true" />
+            <element signature="e#4903#4904#0" expanded="true" />
+            <element signature="e#4944#4945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Descargas/2-LoggingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/propertieslogs.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/testCalculadora.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="1416">
@@ -450,51 +555,87 @@
       </provider>
       <provider editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/log/app.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="96">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logsTestCalculadora.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logsTestCalculadora - ${current.date}.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="28" column="84" selection-start-line="28" selection-start-column="84" selection-end-line="28" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logsTestCalculadora_.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="192">
+          <caret line="8" column="71" lean-forward="true" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logsTestCalculadora_2019-07-05 13-55-11-%i.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logsTestCalculadora_2019-07-05 13-56-34.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculadora.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="806">
+          <caret line="42" column="141" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="141" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logsTestCalculadora_2019-07-05 13-57-44.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log 2019-07-05 13-58-16.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/factory/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        <state relative-caret-position="308">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilidades/Espera.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="23" column="95" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/pages/PageCalculadora.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="111" column="41" lean-forward="true" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+        <state relative-caret-position="476">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#numeroEnWebElement#0;class#PageCalculadora#0" />
-            <element signature="e#4818#4819#0" expanded="true" />
-            <element signature="e#4855#4856#0" expanded="true" />
-            <element signature="e#4903#4904#0" expanded="true" />
-            <element signature="e#4944#4945#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
           </folding>
         </state>
       </provider>
